@@ -1,0 +1,31 @@
+#name{
+    font-family: 'Akronim', cursive;
+    background-color: orchid;
+}
+
+.imagetext{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 70%;
+    color: red;
+    font-size: 40px;
+    font-family: 'Akronim', cursive;
+}
+
+#service{
+    background-color: grey;
+}
+
+
+#Call{
+background-color: orchid;
+}
+
+#SectionEnding{
+    background-color: aqua;
+}
+
+.social{
+    margin-top: 30px;
+}
